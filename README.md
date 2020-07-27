@@ -1,4 +1,4 @@
-<h4> Welcome to my github </h4>
+<h3> Welcome to my github </h3>
 
 I'm currently a software developer student.
 
