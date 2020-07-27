@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my github
+
+I'm currently a software developer student.
+
+Will update this in a future... 🔧
 
 <!--
 **raykrai/raykrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
