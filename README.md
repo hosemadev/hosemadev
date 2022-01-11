@@ -4,6 +4,8 @@ I'm currently a fullstack software developer in ❤️ with web languages.
 
 Will update this in a future... 🔧
 
+Know more at [josema.dev](https://josema.dev/)
+
 <!--
 **raykrai/raykrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
