@@ -1,6 +1,6 @@
 <h3> Welcome to my github </h3>
 
-I'm currently a fullstack software developer in ❤️ with web languages.
+I'm currently a fullstack software developer focused in web languages.
 
 Will update this in a future... 🔧
 
