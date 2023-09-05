@@ -2,10 +2,9 @@
 
 I'm currently a fullstack software developer focused in web languages.
 
-Will update this in a future... 🔧
-
 Know more at [josema.dev](https://josema.dev/)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=raykrai)
 <!--
 **raykrai/raykrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
