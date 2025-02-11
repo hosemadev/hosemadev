@@ -1,6 +1,6 @@
 <h3> Welcome to my github </h3>
 
-I'm currently a fullstack software developer focused in web languages.
+I'm currently a frontend software developer focused in web languages.
 
 Know more at [josema.dev](https://josema.dev/)
 
